@@ -49,6 +49,17 @@ h1, h2, h3, h4, h5, h6 {
     color: rgb(11,82,214);
 }
 
+.checklist >li i {
+    color: var(--secondary-color);
+}
+
+code[class*="language-"],
+pre[class*="language-"] {
+white-space: pre-wrap;
+word-break: break-all;
+word-wrap: break-word;
+}
+
 main>.container {
     padding: 60px 15px 0;
 }
