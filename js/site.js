@@ -1,5 +1,5 @@
-//This is NOT Python and that's OK!
-// Every line in Javascript ends in semicolon .... boo...
+//Raw Js code goes here 
+
 funtion helloWorld() {
     alert("hello World");
 }
